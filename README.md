@@ -1,2 +1,2 @@
-# learn-Python
+# Python Projects
 Python related projects
